@@ -1,4 +1,4 @@
-# utsav_pal_ml_project
+# ML Project
 
 ## Project Title
 Predictive Health Diagnosis System
