@@ -60,7 +60,7 @@ This machine learning project aims to develop a system that predicts diseases ba
 ## Usage
 1. Run the application:
    ```
-   python main.py
+   python app.py
    ```
 2. Open a web browser and go to `http://localhost:5000`.
 3. Enter symptoms as prompted and receive predicted diseases.
